@@ -1,6 +1,6 @@
 # CNT-Guide
 
-1. **Math Numbering Systems & Conversions** (e.g., binary, decimal, hex)
+1. [**Math Numbering Systems & Conversions** (e.g., binary, decimal, hex)](1-0.md)
 2. **Computer Concepts** (e.g., CPU architectures, endianness, virtualization)
 3. **Basic Knowledge of Memory Organization and Layout**
    - 3.1. Basic Knowledge of Offsets and Lengths
