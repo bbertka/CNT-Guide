@@ -47,13 +47,13 @@
    - [9.1](9-1.md) - Basic Knowledge of Interpreted Languages (e.g., PERL, Python)
    - [9.2](9-2.md) - Interpreting Source Code and Scripts (e.g., Flow, Variables, Loops)
 10. **Malware and Security**
-   - [10.0](10-0.md) - Classes of Malware and Their Key Features or Abilities
-   - [10.1](10-1.md) - Noise Signatures from Various Malware and Their Impact on Remote Operation
-   - [10.2](10-2.md) - Identification of Malicious Programs on Remote Hosts
-   - [10.3](10-3.md) - Observable Fingerprints of Malware
-   - [10.4](10-4.md) - Types of Rootkits, Methods of Infection, Privilege Levels, and Detection Methods
-   - [10.5](10-5.md) - Built-In Security Mechanisms for Both UNIX and Windows Operating Systems
-   - [10.6](10-6.md) - Capabilities and Use of Security Products
-   - [10.7](10-7.md) - Network Monitoring Applications and Products
-   - [10.8](10-8.md) - Network Vulnerabilities
+    - [10.0](10-0.md) - Classes of Malware and Their Key Features or Abilities
+    - [10.1](10-1.md) - Noise Signatures from Various Malware and Their Impact on Remote Operation
+    - [10.2](10-2.md) - Identification of Malicious Programs on Remote Hosts
+    - [10.3](10-3.md) - Observable Fingerprints of Malware
+    - [10.4](10-4.md) - Types of Rootkits, Methods of Infection, Privilege Levels, and Detection Methods
+    - [10.5](10-5.md) - Built-In Security Mechanisms for Both UNIX and Windows Operating Systems
+    - [10.6](10-6.md) - Capabilities and Use of Security Products
+    - [10.7](10-7.md) - Network Monitoring Applications and Products
+    - [10.8](10-8.md) - Network Vulnerabilities
 
